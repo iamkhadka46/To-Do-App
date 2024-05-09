@@ -1,6 +1,4 @@
-# New Project
-
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+# Simple To-do app using TypeScript HTML
 
 ## Available Scripts
 
@@ -19,6 +17,10 @@ Your app is ready to be deployed!
 
 **For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
 
-### Q: What about Eject?
+##Commands to run
 
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+1. Download Node
+2. npm i --save-dev typescript # Download typescript for devlopement
+3. npx tsc -init # initialize tsconfig file.
+4. npx create-snowpack-app . --template @snowpack/app-template-blank-typescript --force
+5. npm i uuid
