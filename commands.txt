@@ -1,0 +1,4 @@
+1. Download Node
+2. npm i --save-dev typescript # Download typescript for devlopement 
+3. npx tsc -init # initialize tsconfig file.
+4. 
