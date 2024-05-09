@@ -1,4 +1,4 @@
-# Simple To-do app using TypeScript HTML
+# Simple To-do app using TypeScript and HTML
 
 ## Available Scripts
 
